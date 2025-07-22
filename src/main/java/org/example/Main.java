@@ -9,9 +9,9 @@ public class Main {
         for (int i = 1; i <= number; i++) {
 
             if (i % 3 == 0 && i % 5 == 0) {
-                System.out.println("FizzBuzz");
+                System.out.println("FizzBuss");
             } else if (i % 5 == 0) {
-                System.out.println("Buzz");
+                System.out.println("Buss");
             } else if (i % 3 == 0) {
                 System.out.println("Fizz");
             } else {
